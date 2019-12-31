@@ -1,0 +1,10 @@
+name = "L_BFGS_B_jll"
+uuid = "81d17ec3-03a1-5e46-b53e-bddc35a13473"
+version = "3.0.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
