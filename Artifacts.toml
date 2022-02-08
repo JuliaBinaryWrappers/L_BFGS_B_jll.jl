@@ -1,378 +1,459 @@
 [[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "b3debb11c6574d0f3ab4700a6f5aa45eb16af79a"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[L_BFGS_B.download]]
-    sha256 = "bb81a2ba3e1fcb54296331cc91923c6887d1ea63557fc5c0b541fe73ccd4ea94"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "03a1e5a6b91570869ef0f7b7eb0d5511a0f5bd8b"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[L_BFGS_B.download]]
-    sha256 = "2ab3d9dcdc2d6d9934eb7e50046276d6a14b4bcc0463faceece5827135e6cd14"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "84a0b87689c9cdd22351559644a6fd3b3cba0201"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[L_BFGS_B.download]]
-    sha256 = "bdc175f530685958f51a08c8c5332736239274b7d7d86075cc0273eb1d01914c"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
-[[L_BFGS_B]]
 arch = "aarch64"
-git-tree-sha1 = "4d583eae1b069be74a22c6e6a19f182f0470c132"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "4b119dd125db487eb4e3e153326e0ff6044f778dbd0b91152c63e237ea62ad54"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "17d57fbf8e2bdbddf1c6e101b26f6a8249ffdd0d"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[L_BFGS_B.download]]
-    sha256 = "99af89017b7e056349382fc722f08970775849912d04587fedc9d95c888b6cc3"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "80bea6a435e7c2ed0afaccb931fc3ba63f97faf1"
+git-tree-sha1 = "9ab9436142df4326e0772ce04d7fed9f74e089f1"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[L_BFGS_B.download]]
-    sha256 = "b31d8f83a0d9aeee7a95870241839ab8738109dd2b9179d05bf7b94eb889e863"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "armv7l"
-git-tree-sha1 = "5645689a4a6df3183885249203fdd7ee5b7e0345"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "7d87a3a4f7c3791028c0d971eaf6d388234b61e8548e2e4117c9d299967cd48f"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "a74b1f96c8f3e1266c9bbb2164298c78bbb6c38d"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "06a4801f50d7ee45292083a66870e0789c147e2ea1ac15838dceb01623c4054d"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "c94d132c5ccdc31e43754b87526fe802109c3348"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "18778bb2f68645cb5c53228795c049214be32aa0a7947b78d0a61f5c3126338d"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-musl-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "powerpc64le"
-git-tree-sha1 = "928ea320a501906d24b5ed4b535b3b384075b1b7"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "b7d15e8aad60be089be669a8e341ea7fb8b4a173114c2f3b18a18a0addb43438"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "armv7l"
-git-tree-sha1 = "8a51f61038e8423cfe1c9cddf008eaedc31b7a44"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "ff89d262c7d0ff69b428c3935b2d44cb2340c65fabfc46348416b499afd37c72"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "d88b5d01ff154a9aa89568bfb0c7e1489789f1d4a63dd6fefffca5042e5df5ab"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[L_BFGS_B]]
 arch = "aarch64"
-git-tree-sha1 = "893280bc39fde6fcc38259174643c4c1886bcaac"
+git-tree-sha1 = "3889c106a1eeb452c0002c97d2088c6ded268caa"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[L_BFGS_B.download]]
-    sha256 = "da5d8614c3cbfe8fb6ec9b4cbacc3361d2b0a1e49a2fbe64b1098d24375a49bf"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "powerpc64le"
-git-tree-sha1 = "591782a39b9055460c019668b68a25d7e48d2cf2"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "a2aee19f687e08ce24ec3370f6735e2f9a0d3eab14032b6e7016740b764c1043"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "68bf9c370d94a912ca031df0e267a0ed98446a0b"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[L_BFGS_B.download]]
-    sha256 = "c659320e2c21d2fcdb4a7d676ef036f2f843c867c10870236442eead5905ccc0"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "armv7l"
-git-tree-sha1 = "cd2412d0cd581d48b1cc830808c83dce4b167a3e"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "224b16f4550a440de63cec956302408895155d773fc116eb3e93645bbe5fd2b0"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "be98f4fd094dce1006d27f9a50c91610640cc1baea33b413e4150e9869e0c160"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[L_BFGS_B]]
 arch = "aarch64"
-git-tree-sha1 = "442185a00b50ad3aabd02e72bcf192394c3810f0"
+git-tree-sha1 = "153eeb8fb10066a79678f59f9704bf0bed23aeb6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "4aff3e54e339c3c921f9e7251c129044ecec5fa2ffcfc4e21df8e120b7239397"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "aarch64"
+git-tree-sha1 = "69e47a79b130126b41f5108c03caf9c9a59ea616"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "37c0a1a677f3bc23ab1d951b25130e1c2a459271147dfcee3adf447e5d8561f0"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "aarch64"
+git-tree-sha1 = "9b26c095e53fec0635a2a27f5d309bf9e370ef76"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[L_BFGS_B.download]]
-    sha256 = "e4d4042f12556c0c5893ba7b105229a2980e9db4280495f53bc1be4eceead15c"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "bf4bd95912d4c158fd3474d940ecf6564f2a691d5117d103ce78d88f2d6d74d7"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "a8e152c7bfa5a1120254142fd17f2c76bf16feaf"
+arch = "aarch64"
+git-tree-sha1 = "e9c37c4c0ddc979d6784e8d6bb07e6bb3a1bd6f7"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "3fad5dd07517e1372bab756e47bef5af6092e0bd453a429a951cfe08c445e9c4"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-musl-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "aarch64"
+git-tree-sha1 = "05ae9424b2088b31fa9e558efa4ee98aac98585e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "1d1167e34a5aa0102d8010d4aab8b3f73d9c73ae208ff8ff1692a6bc79133a1e"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.aarch64-linux-musl-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9b45d85873141b1042945146dab924860e95e584"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "c66239de7d322f530924ba4f878fcecffe6008fc40230d71219566e2bfcf8899"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "88152d0b15d8bf31b1412ae594fd66e0fb0b1913"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "f471ac8241743d5100cb157be6c4f648c4365dca5de2a600a8a97c62ee1dae52"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9ee283b51375f805571dd99bdb4221f3eb7a3222"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[L_BFGS_B.download]]
-    sha256 = "a21da0e84b217995a26c0c9b7ab5bd821a3daa149be122a58a3856c2b08cd223"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "694177ee3bedc4a659f0b49ba898e9a084da9c5904d6aea465764c2e3fea8352"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d516da06b06f5afb016200da8dc7ba23ff73b598"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "1daffbda9ec0dae15cbd3590fd5c870dafc240482de441ebd7be14474b513f70"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d9359dfb1b19ea5dcf5481d5342f9fbcf50146d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "b7fb7c1df260640c54ba6d12e1c76dcff5cae72c75a6e5bc6087620110db9f8c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "21430238c2d0915ef2f130aa4180ec0236762aff"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "406e9520648af354c115d7242a3e32b0955e6af23fea3ad98b1d163f941e5bc4"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[L_BFGS_B]]
 arch = "armv7l"
-git-tree-sha1 = "850e4bda1aa5e30dcbb7b0d51ba415f66ae256c2"
+call_abi = "eabihf"
+git-tree-sha1 = "92bfe1a954ebebd7dbde3c13624292c7d7d796e9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[L_BFGS_B.download]]
-    sha256 = "27518458d1520f90523f4d5b888e5a0b0f5aa3744ccbd1b57d575006f4ae0807"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "9f004194cebbb507ea6cf02d21359db86c4d30d3a2a4b566e4a44102a76c5919"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f870fe3ee8c463f098ee0e96c812624f887352e1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "6478549a1bf7647b43b2cfc67ce48575ca7623784173e9cd6de3408dd528660c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "98d4474189504832a34ebc2f4eab9555386acb39"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "a6fef83db47aa1015b2c01fe4af1f5d6a7f37ad2507853676d44c55917ab27a3"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "66e6b09782057f3b85286f6f498f49c5946ff1e6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "ce286126fa5f2b2a981635ba1f0054aedc2caa374fb02678d3884b047d46c158"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d9ff792730c00cab3e163e7fe743f065d1385e31"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "eccb6783449607e9ac6363c12210662811514ff7dcd2bbf176de534488392efc"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d29e9593f1c48ad8b45b53b29aee01f0d8d3f6f8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "99f2598236587b8f73cd980cd2eecd30f4e097d4d983b34a204bb93009095964"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[L_BFGS_B]]
 arch = "i686"
-git-tree-sha1 = "55df71e816499fb061e593c927fc38c8e19c116b"
+git-tree-sha1 = "5e0619a34e139cdb88cd485b14a2c93f93d5a9a4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "8a897a5cae16418ec5e54303fb202b26da71cdd1a6e90215225f54d90a23952e"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-gnu-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "1024259b71efe8634f628b70508af48d960514b1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "4768a7309a634d97b9eed1b9e7e84191e2bfbf2e3905edc59f38e3008377ec1c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-gnu-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "cda9e23cbd66b6c1cc4fa16df6bae1cc0112151f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "db76b8b8d6a5f6359cc88a8afaf8d7ed70bdc286304b4b5d1bc99600516a0f5d"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-gnu-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "2921da57634c16a75563f4af55c20368013b30c6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "bdef898cd49febf19656ad995b11584ec66523d13bd464d0fd723e4ba964c78c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-musl-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "7b5e0e784895a275ec8b1d542250d863e50803b6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "c396049776f196176b0aae40b82715200fc122f34ca353712deb959eddc430ac"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-musl-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "671b94ec8c24be100242d537297e0876a768a660"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "a43d96d5cc18a205cffa36956fa546e8d32d626186af56b14b7af55f9c0b669d"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-linux-musl-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "5438a9a824f9d8c68dd9eb8b36be48153f37d877"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[L_BFGS_B.download]]
+    sha256 = "08dc297f25a289c841a1fef05bf43299827d0a4af0810f5c3cd160f4f91a91d7"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-w64-mingw32-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "ae986c0c42c9a03f7709d08c69cc5a472ef7968d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[L_BFGS_B.download]]
+    sha256 = "e48716c16eb7d7b8be8a1dbc4b54befb18de7f7538b227c596b770012064ac4c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-w64-mingw32-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "i686"
+git-tree-sha1 = "dd6d4455736dbed66495cea6234619e93476ed9c"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[L_BFGS_B.download]]
-    sha256 = "fe4bb4af2ebb74fd90f8befc64bbc120f48e1a72af86916e8c83a2ac6d818204"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "bf9c5607fde2cec11ead520a23c6c4c08b82e7b11939ae4377823542977c91a8"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "a104038a15ba352aa964c77efb2f27f60006c316"
+arch = "powerpc64le"
+git-tree-sha1 = "4ea8fe552fec2ddabc1868ef7888b846b65e8a82"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "76ddc6a02f726cd258f7320c1bf728546c61de71ced538a6d0b11fe50763d374"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "powerpc64le"
+git-tree-sha1 = "742c95d0d854fb91bcf86b522a699850eb5da3d1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[L_BFGS_B.download]]
-    sha256 = "68d9648e7891f3f21c3d4cd50d14c218b6393cd789e4823a058dbfe1c09c54fd"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "0cb4254e27105d51c156f5aa446c6242346e5da264129137d11325df749d1fa5"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "d9ecaed67da38f31a02ffb9ee69e29b3c24ca2f1"
+arch = "powerpc64le"
+git-tree-sha1 = "974f59cbfa702f066ff5d8ae6d6cfe5289b2268e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "00372cea673f92712f3b9e8df08425549d7d35b003c9729e6198ac7be0ec45b2"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "1e4baccd765b6575c876ee127ba6285efb51661f"
 libgfortran_version = "3.0.0"
-os = "windows"
+os = "macos"
 
     [[L_BFGS_B.download]]
-    sha256 = "ada24a2a287d77ca34b7b6f8a2fbe70b93c95b7e6b9afe41b278a45d06577fa8"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "7674d5ced592f5db64f928cf3998446a675c007b671a353bd90606a423a66137"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[L_BFGS_B]]
 arch = "x86_64"
-git-tree-sha1 = "95bd1507c40acc870c47ee7ef0c8faa1cf5f3fa0"
+git-tree-sha1 = "2d72d5cb6b1b0b13c6b993d967db32ed33e994af"
 libgfortran_version = "4.0.0"
-os = "windows"
+os = "macos"
 
     [[L_BFGS_B.download]]
-    sha256 = "e097ad1a81a58a637992ac9b254c09e2b35bea19f33f5bbdfe88cd060b8940e8"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "e68a5a28fdd32187c28c3081b06f388f9714e7ba552bb20e23e9def4959c05f3"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[L_BFGS_B]]
 arch = "x86_64"
-git-tree-sha1 = "c576b082876c89ebbcf56baef6f8f0dc52a9d969"
+git-tree-sha1 = "1697c85a0eec28d5a450f5055c24ac2764026944"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[L_BFGS_B.download]]
+    sha256 = "a1e67e6a84ae7080cca9cc3f1d503faf5081741ead32259197f79b29a42b2537"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "17379f4d37660ceab7e58e5396d1a78428702953"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "bef55df3f7e1b40ef0ace6f878c8b7fc616bcc6ecb8d9ae3eff7a68f14e2b737"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "d48dce558fb8e6c38668f66cb691a775c660e42b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "4228c2f484890a85ce45e3a6278cc4c65de997dd1dc2e808366d2f6797b03e6c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "c217359059a8dc6f507aa51e7821ea955f7408aa"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "e6a9a565b5052c9ff5aed9d1adc54ebb62c9d7dde40a5f4d488159c7f282f875"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "c73ebbca43bcc3eeb5969c42f6a9c7ad69f9899a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "01048689cad92672e49aed3d56298c18c7ba5a892c879dbc60d73bdccaf61ec5"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-musl-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "ac7179098dc18cde2f61cd4e3012e0689a685f13"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "17a646e2cc08dd21769f4fd786649b22b1c9117c333c664e57d1f10e68e092d6"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-musl-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "abb67d8e3f83917e1b5312aea94266eea42f5e5f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[L_BFGS_B.download]]
+    sha256 = "8d2f0c235a159ec5a73349a149646d2c11cf05a0af2b29258f86d6c50dc7359d"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "3bdd559b295e53c67b0b7b9a25ac7bc217da87c9"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[L_BFGS_B.download]]
+    sha256 = "e1f1fe212a3dbe2ba86522c8a14e184500e7e0e76516ba6c095d6b4a74d052f7"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "770695cce2f527566252725f0b411d8db87cb7e7"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[L_BFGS_B.download]]
+    sha256 = "f1cb9924a093d77e0e50116b35b4f4eb2426d5251fe6f535ed97401b4a70579c"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[L_BFGS_B]]
+arch = "x86_64"
+git-tree-sha1 = "058cfb89cd9db5de733d65aba26772d09e1c6c5f"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[L_BFGS_B.download]]
-    sha256 = "365e890c0e37c38d4a434fddc515f05ccccdeaea22e5ffce456cd539182289a3"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "aarch64"
-git-tree-sha1 = "e12b522fe356203b46303d53cca47030489828c4"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "ad5e231f4a445b48296a800cd0f625791f77d04addaf827979627674f50faa98"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "4ff60cf22ce40352776cb20635c5efd6caea400942c8bf058b45b0cac7d702a5"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[L_BFGS_B]]
 arch = "x86_64"
-git-tree-sha1 = "d07d2bef4f4e43558cc49650ded454898edacb17"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "9cd46ad03517b72d78b82c94bf49328d5e141693b5f319f3a621235dd98f2dd0"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "5955de1e85a8b12d401fec08b3e29b5a292136f8"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "c1921e2b960757d728cb259625b2a9ae3b83541050eb949ac955f743cf0551e0"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "266b3c982e9b0c2e7d0b392a5a1fba6ddca36b8d"
+git-tree-sha1 = "bcfc063d88e30e9c4db582e22b31771162a976e2"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[L_BFGS_B.download]]
-    sha256 = "75de55c7af507424add5a2f5b02d1bb75cc5537596c700a07c0235b981abae7d"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "armv7l"
-git-tree-sha1 = "1593943844bddfd0ae3b18e07f03523b738f718f"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "22db18a6c4f5e1658f2acc2e509e4aa9dcb87e558880fe09d77d247ff04c2788"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "617de4c0d81e1d0ad4d3ab297bbc53afcddbb3a00adf349d0da6b0960d7e6142"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[L_BFGS_B]]
 arch = "x86_64"
-git-tree-sha1 = "6290866805591aa35ee101938749a386542edeca"
-libc = "glibc"
+git-tree-sha1 = "527ca9eae07bed5494a8a658fe654e33b5fd9e05"
 libgfortran_version = "4.0.0"
-os = "linux"
+os = "windows"
 
     [[L_BFGS_B.download]]
-    sha256 = "102509b36467233a0001352f44578735046aa091fb29f9b3d3080157fb9026d1"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d16011103560521a98bcedaa00e06ea628132b7e2889833bbc55dcb98e6ee617"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[L_BFGS_B]]
 arch = "x86_64"
-git-tree-sha1 = "dd1c682ed48216bdf0b8b4f981ced1d12c2ccdab"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "0259f8525dc65c2014ef70ddaa774ab7944d4ad8964ef1f0e8c6facf4b6e38a8"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "aarch64"
-git-tree-sha1 = "af752bfd04c7a1673b837fdf539c8a9f4dcbf573"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "860714a960842674c5ccf6e92d900ae4bb481f6094a15e0c34cfa564ace96f6d"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "96b6219bc5175a5c615f0a7df5018199530df855"
-libc = "glibc"
+git-tree-sha1 = "7ebc9249becc8c75e679c2be48a746cf29b92ae7"
 libgfortran_version = "5.0.0"
-os = "linux"
+os = "windows"
 
     [[L_BFGS_B.download]]
-    sha256 = "f42bf0d35eab6ad91d6aefbc0db46e382e75f267f9d1d21c868ee0ccd256b71b"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-gnu-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "16251e6c84bfd9c8c46db92fe8b244adccf543f3"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "269f435756e7a92a2ab50f61879562958a9f09b907a2732e891b1014ff9e7249"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-gnu-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "x86_64"
-git-tree-sha1 = "cd8dc6b7f44b725786d74746d17cdd5a9f326e2f"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[L_BFGS_B.download]]
-    sha256 = "6d6aa9a558e1bd5e3df9e90ba4dc52f297860c84900c7fe731348bb191fffc8b"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "0e1d7ccb898afe3885ca8c1d00a5702e2d67a73a"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "7f090cd503431432dd9819bb9b05235dec03734fef805eee328fee5fa07cdf1b"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-musl-libgfortran3.tar.gz"
-[[L_BFGS_B]]
-arch = "armv7l"
-git-tree-sha1 = "015c844cfc5ba75c4165d6a3c61550d21bb6411d"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "ae5fafc13d04ac0618d6e3dde8b0a9cb19aed179e473fd3dc94181936e77b2b8"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "i686"
-git-tree-sha1 = "4f987582a0f49eafd5398056cae8277ea558db38"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "6452cb1b60bd21b74307ef267aaf2255b55bba803dba651d89719d35e895d1d7"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.i686-linux-musl-libgfortran4.tar.gz"
-[[L_BFGS_B]]
-arch = "aarch64"
-git-tree-sha1 = "5ba1d1d50d371f714c172528fc08a8ce7f96f2a1"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "1dd9440d6e4aa08c2fac923da4e01f8c300de8446ade3447a258239ae2bb88f7"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
-[[L_BFGS_B]]
-arch = "powerpc64le"
-git-tree-sha1 = "78f2dbd3229341b5d58057a79c589f1f64bcd93d"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[L_BFGS_B.download]]
-    sha256 = "547ea7c4fb120a5398d4b50196d50ffe60d8b25481f1e8def607d839908e3bed"
-    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.0+1/L_BFGS_B.v3.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "0597758d2b1cb76f1fb8b82e8c98b5add539582aedbca89ee0e7310d09e6a306"
+    url = "https://github.com/JuliaBinaryWrappers/L_BFGS_B_jll.jl/releases/download/L_BFGS_B-v3.0.1+0/L_BFGS_B.v3.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
